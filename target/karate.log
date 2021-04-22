@@ -1,0 +1,921 @@
+17:18:25.067 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:19:12.319 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:21:15.027 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:30:35.416 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:30:36.525 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:30:36.853 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:30:36.900 [main] DEBUG com.intuit.karate - response time in milliseconds: 37
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:00:36 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+17:30:36.941 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+17:31:15.795 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:31:16.565 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:31:16.878 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:31:16.920 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:01:16 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+17:31:16.920 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+17:42:25.392 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+17:42:26.178 [main] INFO  com.intuit.karate - karate.env system property was: null 
+17:42:26.483 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:42:26.525 [main] DEBUG com.intuit.karate - response time in milliseconds: 37
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:12:26 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+17:42:26.526 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:06:57.887 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:06:58.665 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:06:58.984 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:06:59.026 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:36:59 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:06:59.027 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:08:15.905 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:08:16.669 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:08:16.986 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:08:17.027 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 404
+1 < Vary: Origin
+1 < Vary: Access-Control-Request-Method
+1 < Vary: Access-Control-Request-Headers
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:38:17 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+{"timestamp":"2021-04-22T12:38:17.014+0000","status":404,"error":"Not Found","message":"No message available","path":"/"}
+18:08:17.027 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:10:00.154 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:10:00.885 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:10:01.182 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:10:01.224 [main] DEBUG com.intuit.karate - response time in milliseconds: 37
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:40:01 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:10:01.224 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:13:48.153 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:13:48.897 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:13:49.186 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:13:49.226 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:43:49 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:13:49.227 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:15:51.958 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:15:52.693 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:15:52.982 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:15:53.023 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:45:53 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:15:53.024 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:20:58.044 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:24:04.329 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:24:06.052 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:24:06.247 [main] DEBUG com.intuit.karate - response time in milliseconds: 152
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 12:54:06 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:24:06.251 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:32:01.609 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:32:02.336 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:32:02.646 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:32:02.688 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:02:02 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:32:02.688 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:32:02.705 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:32:02.716 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:32:02.719 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:32:02.722 [main] DEBUG com.intuit.karate - response time in milliseconds: 3
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:02:02 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:32:02.723 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method GET
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:35:06.052 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:35:06.780 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:35:06.812 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+Then status 200
+Cannot invoke "com.intuit.karate.http.Response.getStatus()" because "this.response" is null
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:35:06.847 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:35:06.858 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:35:06.860 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+Then status 200
+Cannot invoke "com.intuit.karate.http.Response.getStatus()" because "this.response" is null
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:35:51.072 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:35:51.808 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:35:52.121 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:35:52.161 [main] DEBUG com.intuit.karate - response time in milliseconds: 36
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:05:52 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:35:52.162 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:35:52.179 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:35:52.189 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:35:52.192 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all/
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:35:52.196 [main] DEBUG com.intuit.karate - response time in milliseconds: 4
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:05:52 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:35:52.196 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:38:10.868 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:38:11.604 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:38:11.904 [main] DEBUG com.intuit.karate - request:
+1 > GET http://dummy.restapiexample.com/api/v1/employee/1
+1 > Host: dummy.restapiexample.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:38:13.228 [main] DEBUG com.intuit.karate - response time in milliseconds: 1307
+1 < 200
+1 < Date: Thu, 22 Apr 2021 13:08:13 GMT
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cache-Control: no-cache, private, max-age=31536000
+1 < Display: staticcontent_sol, staticcontent_sol
+1 < Expires: Fri, 22 Apr 2022 13:08:13 GMT
+1 < Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+1 < Referrer-Policy: 
+1 < Response: 200
+1 < Vary: Accept-Encoding
+1 < Vary: Accept-Encoding,User-Agent,Origin
+1 < X-Ezoic-Cdn: Miss
+1 < X-Middleton-Display: staticcontent_sol, staticcontent_sol
+1 < X-Middleton-Response: 200
+1 < X-Ratelimit-Limit: 60
+1 < X-Ratelimit-Remaining: 58
+1 < X-Sol: pub_site
+1 < CF-Cache-Status: DYNAMIC
+1 < cf-request-id: 099b4b0cf200004b11e4872000000001
+1 < Report-To: {"max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=HSztOtq2W08F4V%2F5chJZNYBJN9zeYSEN7QT6msUHrpI48nS0%2FpDRoiTXPcUgAhs2ijWEajsFduKqGKcMFvyS%2FlqPjgylCT9HWpyHFFocRgEZt45mPVW3l6w%3D"}],"group":"cf-nel"}
+1 < NEL: {"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 643f145b1cdf4b11-HYD
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d0ff88ec37406b0c67404a3cee99286411619096892; Max-Age=1621688892000; Expires=Wed, 01 Aug 53410 21:48:13 GMT; Domain=restapiexample.com
+{"status":"success","data":{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},"message":"Successfully! Record has been fetched."}
+18:38:13.228 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:38:13.256 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:38:13.270 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:38:13.272 [main] DEBUG com.intuit.karate - request:
+1 > GET http://dummy.restapiexample.com/api/v1/employee/1
+1 > Host: dummy.restapiexample.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:38:14.574 [main] DEBUG com.intuit.karate - response time in milliseconds: 1301
+1 < 429
+1 < Date: Thu, 22 Apr 2021 13:08:15 GMT
+1 < Content-Type: text/html; charset=UTF-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Display: staticcontent_sol
+1 < Expires: Wed, 21 Apr 2021 13:08:15 GMT
+1 < Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+1 < Pagespeed: off
+1 < Referrer-Policy: 
+1 < Response: 429
+1 < Retry-After: 12
+1 < Vary: Accept-Encoding
+1 < Vary: Accept-Encoding,User-Agent,Origin
+1 < X-Ezoic-Cdn: Miss
+1 < X-Middleton-Display: staticcontent_sol
+1 < X-Middleton-Response: 429
+1 < X-Ratelimit-Limit: 60
+1 < X-Ratelimit-Remaining: 57
+1 < X-Ratelimit-Reset: 1619096906
+1 < X-Sol: pub_site
+1 < CF-Cache-Status: DYNAMIC
+1 < cf-request-id: 099b4b121300004af30999d000000001
+1 < Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=i8s%2Fc0xPto%2BbV7bXBf3v5b%2FfO32ETkv7Q02WmTj38WGpuyoArGwKjvlcg%2BEee5JGy2xgwa8QJR%2BVynSAWDi9RdXycGHzW58VbFnsmzXbUcqi8xWerWvnjyQ%3D"}]}
+1 < NEL: {"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 643f14635dc54af3-HYD
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d6561b0e6d357c671b1468943753216df1619096893; Max-Age=1621688893000; Expires=Wed, 01 Aug 53410 22:04:54 GMT; Domain=restapiexample.com
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+18:39:52.839 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:39:53.559 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:39:53.854 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:39:59.976 [main] DEBUG com.intuit.karate - response time in milliseconds: 6107
+1 < 200
+1 < Date: Thu, 22 Apr 2021 13:10:00 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < x-powered-by: Express
+1 < x-ratelimit-limit: 1000
+1 < x-ratelimit-remaining: 999
+1 < x-ratelimit-reset: 1615931316
+1 < vary: Origin, Accept-Encoding
+1 < access-control-allow-credentials: true
+1 < cache-control: max-age=43200
+1 < pragma: no-cache
+1 < expires: -1
+1 < x-content-type-options: nosniff
+1 < etag: W/"124-yiKdLzqO5gfBrJFrcdJ8Yq0LGnU"
+1 < via: 1.1 vegur
+1 < CF-Cache-Status: STALE
+1 < Age: 58485
+1 < cf-request-id: 099b4c9c140000dcca9db03000000001
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=lblmNleOTfz92TR9nQZlnUK9%2FpI%2BCXWBRAB0HgNGqRywYarM2UUeQQiAAHqZLuUoxdC3p%2FzL%2BFBvSCGtP8ze7Q6RdLwKFyQfKbQkVPheIjC47E5FII15mgN4s4UK"}],"max_age":604800}
+1 < NEL: {"max_age":604800,"report_to":"cf-nel"}
+1 < Server: cloudflare
+1 < CF-RAY: 643f16d9bbabdcca-SIN
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d9ce7272993e8b6dc32ca75327c85bb8a1619096994; Max-Age=1621688994000; Expires=Fri, 03 Aug 53410 02:09:59 GMT; Domain=typicode.com
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+18:39:59.977 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:40:00.003 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:40:00.015 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:40:00.018 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:40:06.014 [main] DEBUG com.intuit.karate - response time in milliseconds: 5996
+1 < 200
+1 < Date: Thu, 22 Apr 2021 13:10:06 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < x-powered-by: Express
+1 < x-ratelimit-limit: 1000
+1 < x-ratelimit-remaining: 999
+1 < x-ratelimit-reset: 1615931316
+1 < vary: Origin, Accept-Encoding
+1 < access-control-allow-credentials: true
+1 < cache-control: max-age=43200
+1 < pragma: no-cache
+1 < expires: -1
+1 < x-content-type-options: nosniff
+1 < etag: W/"124-yiKdLzqO5gfBrJFrcdJ8Yq0LGnU"
+1 < via: 1.1 vegur
+1 < CF-Cache-Status: STALE
+1 < Age: 58491
+1 < cf-request-id: 099b4cb373000019c59621e000000001
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=uenL0s3pGCNqoJyzmd1zpc0hQ1qetfJjbCSejfkHLUzsrLU%2BmLpVMg0TwjxWL7b7DbaX511Wy650dyTuRMl6IhewoGvmGDdlWvZ6rzS5gE9ajr244MoYmwZvahi%2F"}],"group":"cf-nel","max_age":604800}
+1 < NEL: {"max_age":604800,"report_to":"cf-nel"}
+1 < Server: cloudflare
+1 < CF-RAY: 643f16ff1f3919c5-SIN
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d863ec91a6c8d53777e5976799d1707b61619097000; Max-Age=1621689000000; Expires=Fri, 03 Aug 53410 03:50:06 GMT; Domain=typicode.com
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+18:40:06.015 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:40:45.679 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:40:46.398 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:40:46.453 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:40:46.464 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:41:18.933 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:41:19.666 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:41:19.964 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:41:26.028 [main] DEBUG com.intuit.karate - response time in milliseconds: 6052
+1 < 200
+1 < Date: Thu, 22 Apr 2021 13:11:26 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < x-powered-by: Express
+1 < x-ratelimit-limit: 1000
+1 < x-ratelimit-remaining: 999
+1 < x-ratelimit-reset: 1615931316
+1 < vary: Origin, Accept-Encoding
+1 < access-control-allow-credentials: true
+1 < cache-control: max-age=43200
+1 < pragma: no-cache
+1 < expires: -1
+1 < x-content-type-options: nosniff
+1 < etag: W/"124-yiKdLzqO5gfBrJFrcdJ8Yq0LGnU"
+1 < via: 1.1 vegur
+1 < CF-Cache-Status: STALE
+1 < Age: 58571
+1 < cf-request-id: 099b4dec50000019ac9dba3000000001
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=lPohX2Vg0UUk6DV5qOLekXuEpvTFYxF9NacH3N1VIwtia3MxPUxT5Jh55jcFhm1RUE3zrJpq3u%2FmJUP4AoI0NhahidFGjk6FSO%2FpOzJtvsbylnWtrJM2QXikf519"}]}
+1 < NEL: {"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 643f18f3beb519ac-SIN
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d5f4c6311a5a8c4c3ecd521ae51bec2291619097080; Max-Age=1621689080000; Expires=Sat, 04 Aug 53410 02:04:46 GMT; Domain=typicode.com
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+18:41:26.029 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:41:26.048 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:41:26.059 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:41:26.062 [main] DEBUG com.intuit.karate - request:
+1 > GET https://jsonplaceholder.typicode.com/posts/1
+1 > Host: jsonplaceholder.typicode.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:41:31.920 [main] DEBUG com.intuit.karate - response time in milliseconds: 5857
+1 < 200
+1 < Date: Thu, 22 Apr 2021 13:11:32 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < x-powered-by: Express
+1 < x-ratelimit-limit: 1000
+1 < x-ratelimit-remaining: 999
+1 < x-ratelimit-reset: 1615931316
+1 < vary: Origin, Accept-Encoding
+1 < access-control-allow-credentials: true
+1 < cache-control: max-age=43200
+1 < pragma: no-cache
+1 < expires: -1
+1 < x-content-type-options: nosniff
+1 < etag: W/"124-yiKdLzqO5gfBrJFrcdJ8Yq0LGnU"
+1 < via: 1.1 vegur
+1 < CF-Cache-Status: STALE
+1 < Age: 58577
+1 < cf-request-id: 099b4e03850000c368373a7000000001
+1 < Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+1 < Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=L3ctbrLs4dWgU7zJP3GeGsQEmGlJpTdwmgoezE7rCjyiEF%2F7prBerymecLPMf%2Fi5QmI4lKaEcCLEI3asL5LOkb3mBJKxzp7vlXG8y7LPR6uzgq%2F%2FyggiRkgWW5Zb"}]}
+1 < NEL: {"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < CF-RAY: 643f1918df25c368-SIN
+1 < alt-svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+1 < Set-Cookie: __cfduid=d785dd732bc9c143db21d505fe11bb4151619097086; Max-Age=1621689086000; Expires=Sat, 04 Aug 53410 03:44:51 GMT; Domain=typicode.com
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+18:41:31.920 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:42:15.588 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:42:16.310 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:42:16.609 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:42:16.650 [main] DEBUG com.intuit.karate - response time in milliseconds: 37
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:12:16 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:42:16.651 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:44:49.050 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:45:04.762 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:45:05.092 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:45:05.131 [main] DEBUG com.intuit.karate - response time in milliseconds: 30
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:15:05 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:45:05.133 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+18:47:06.160 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:53:25.174 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:53:26.919 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:53:27.122 [main] DEBUG com.intuit.karate - response time in milliseconds: 158
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 13:23:27 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+18:53:27.126 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+20:05:57.553 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:05:58.167 [pool-1-thread-1] INFO  com.intuit.karate - karate.env system property was: null 
+20:05:58.403 [pool-1-thread-1] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:05:58.435 [pool-1-thread-1] DEBUG com.intuit.karate - response time in milliseconds: 28
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 14:35:58 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+20:05:58.436 [pool-1-thread-1] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+20:05:58.437 [pool-2-thread-1] ERROR com.intuit.karate.Suite - <<error>> unable to write report file(s): classpath:com/api/automation/getrequest/getRequest.feature - java.lang.NoClassDefFoundError: Could not initialize class com.intuit.karate.JsonUtils
+20:06:18.536 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:06:19.136 [pool-1-thread-1] INFO  com.intuit.karate - karate.env system property was: null 
+20:06:19.372 [pool-1-thread-1] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:06:19.405 [pool-1-thread-1] DEBUG com.intuit.karate - response time in milliseconds: 29
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 14:36:19 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+20:06:19.405 [pool-1-thread-1] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+20:06:19.406 [pool-2-thread-1] ERROR com.intuit.karate.Suite - <<error>> unable to write report file(s): classpath:com/api/automation/getrequest/getRequest.feature - java.lang.NoClassDefFoundError: Could not initialize class com.intuit.karate.JsonUtils
+20:07:06.594 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:07:07.178 [pool-1-thread-1] INFO  com.intuit.karate - karate.env system property was: null 
+20:07:07.411 [pool-1-thread-1] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:07:07.443 [pool-1-thread-1] DEBUG com.intuit.karate - response time in milliseconds: 28
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 14:37:07 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+20:07:07.444 [pool-1-thread-1] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
+20:07:07.445 [pool-2-thread-1] ERROR com.intuit.karate.Suite - <<error>> unable to write report file(s): classpath:com/api/automation/getrequest/getRequest.feature - java.lang.NoClassDefFoundError: Could not initialize class com.intuit.karate.JsonUtils
+20:11:24.636 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:11:25.238 [main] INFO  com.intuit.karate - karate.env system property was: null 
+20:11:25.478 [main] DEBUG com.intuit.karate - request:
+1 > GET http://localhost:9999/normal/webapi/all
+1 > Host: localhost:9999
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/15.0.1)
+1 > Accept-Encoding: gzip,deflate
+
+
+20:11:25.510 [main] DEBUG com.intuit.karate - response time in milliseconds: 28
+1 < 200
+1 < X-Content-Type-Options: nosniff
+1 < X-XSS-Protection: 1; mode=block
+1 < Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+1 < Pragma: no-cache
+1 < Expires: 0
+1 < X-Frame-Options: DENY
+1 < Content-Type: application/json
+1 < Transfer-Encoding: chunked
+1 < Date: Thu, 22 Apr 2021 14:41:25 GMT
+1 < Keep-Alive: timeout=60
+1 < Connection: keep-alive
+[{"jobId":1,"jobTitle":"Software Engg","jobDescription":"To develop andriod application","experience":["Google","Apple","Mobile Iron"],"project":[{"projectName":"Movie App","technology":["Kotlin","SQL Lite","Gradle"]}]}]
+20:11:25.510 [main] ERROR com.intuit.karate - classpath:com/api/automation/getrequest/getRequest.feature:5
+When method get
+Could not initialize class com.intuit.karate.JsonUtils
+classpath:com/api/automation/getrequest/getRequest.feature:5
